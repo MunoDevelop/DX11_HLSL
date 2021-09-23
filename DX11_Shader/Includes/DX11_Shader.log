@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(495,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  DX_Main.cpp
+  Engine.cpp
+  Graphics.cpp
+  RenderWindow.cpp
+  WindowContainer.cpp
+  Generating Code...
+  DX11_Shader.vcxproj -> C:\Users\user\Documents\Unreal Projects\DX11_HLSL\DX11_Shader\x64\Debug\DX11_Shader.exe
